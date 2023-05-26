@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Creative Computing** at **IADT** (final year)
 
-- 👨‍💻 All of my projects are available through: [mangoshi.github.io](mangoshi.github.io)
+- 👨‍💻 All of my projects are available through: [mangoshi.github.io](https://mangoshi.github.io/)
 
 - 💬 Ask me about: **JavaScript, CSS, HTML, React, Vue**
 
