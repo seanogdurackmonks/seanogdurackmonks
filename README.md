@@ -5,7 +5,9 @@
 
 - 👨‍🎓 I was recently awarded a 1:1 BSc (Hons) in Creative Computing!
 
-- 👨‍💻 All of my college/personal projects are available through: [mangoshi.github.io](https://mangoshi.github.io/)
+- 🔗 Links to my final year project: [web app](https://ms24.vercel.app/), [repository](https://github.com/IADT-projects/y4-project-Mangoshi), and [showcase](https://onshow.iadt.ie/2023_student/sean-durack-monks/).
+
+- 👨‍💻 All of my college/personal projects are available [here](https://github.com/Mangoshi?tab=repositories)!
 
 - 💬 Ask me about web technologies like **JavaScript, CSS, HTML, React,** and **Vue**!
 
