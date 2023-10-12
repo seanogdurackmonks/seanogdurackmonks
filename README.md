@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Seán Óg</h1>
 <h3 align="center">A frontend developer in the making!</h3>
 
-- 🔭 I’m currently working on: [my final year project at IADT](https://github.com/IADT-projects/y4-project-Mangoshi)
+- 🔭 I’m currently looking for work!
 
-- 🌱 I’m currently learning: **Creative Computing** at **IADT** (final year)
+- 👨‍🎓 I was recently awarded a 1:1 BSc (Hons) in Creative Computing!
 
-- 👨‍💻 All of my projects are available through: [mangoshi.github.io](https://mangoshi.github.io/)
+- 👨‍💻 All of my college/personal projects are available through: [mangoshi.github.io](https://mangoshi.github.io/)
 
-- 💬 Ask me about: **JavaScript, CSS, HTML, React, Vue**
+- 💬 Ask me about web technologies like **JavaScript, CSS, HTML, React,** and **Vue**!
 
-- 📫 How to reach me: **seanog.durackmonks@gmail.com**
+- 💭 Or audio/visual programs like **Figma, Illustrator, Photoshop, Audition, Premiere Pro, Ableton,** and **Bitwig**!
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/sean-og-durack-monks/](https://www.linkedin.com/in/sean-og-durack-monks/)
+- 📫 How to reach me: [**seanog.durackmonks@gmail.com**](mailto:seanog.durackmonks@gmail.com)
+
+- 📄 Learn about my experiences: [https://www.linkedin.com/in/sean-og-durack-monks/](https://www.linkedin.com/in/sean-og-durack-monks/)
 
 - ⚡ Fun fact: **I'm also a DJ & music producer!** [📀🎚🎚📀]
 
